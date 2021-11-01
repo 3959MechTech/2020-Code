@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcCpp (in project Black2020V2-Imported)",
+    "target": "roborio",
+    "component": "frcUserProgram",
+    "debugfile": "frcCpp_roborio.debugconfig",
+    "language": "cpp"
+  }
+]
